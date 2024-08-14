@@ -1,0 +1,10 @@
+body{
+    background-image: url(images/bpic.jpeg);
+    background-size: cover;
+    background-color: aliceblue;
+}
+header{
+    background-color: slateblue;
+    padding: 40px 10px 40px 10px;
+    text-align: center;
+}
